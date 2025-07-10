@@ -2,7 +2,7 @@
 <h1> 
     <p align="center">
         <a href="https://github.com/azeemghafoorr">  
-            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hello+World!+👋;+I'm+Muhammad+Azeem+Ghafoor;">
+            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hello+World!+👋;+I'm+Muhammad+Azeem;">
         </a>
          <a href="https://github.com/azeemghafoorr">   
             <img align="right" src="gif.gif" width="170">
