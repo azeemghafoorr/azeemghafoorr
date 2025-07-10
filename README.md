@@ -1,3 +1,68 @@
+
+<h1> 
+    <p align="center">
+        <a href="https://github.com/arslan555">  
+            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hello+World!+👋;+I'm+Mirza+Arslan;">
+        </a>
+         <a href="https://github.com/arslan555">   
+            <img align="right" src="gif.gif" width="170">
+        </a>
+    </p>
+</h1>
+
+  <p><h3 align="center">A passionate Engineer from Dubai, United Arab Emirates</h3>
+      
+<p align="center">
+The dynamic evolution of computer technology has always captivated me, inspiring a deep passion for software engineering since my youth. 🚀 Over time, my enthusiasm has only intensified. I delight in exploring new tech stacks 💻 and derive ultimate joy from crafting innovative solutions 🛠️. Let's collaborate and code the future together! 🌟</p>
+<p align="center"> </p>
+</div>
+<img align="right" alt="Coding" width="400" src="dnxempire.gif">
+
+- 💬 Ask me about **Software Engineering**, **Android App Development** and **Test Driven Development**
+<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" width="400">
+    <a href="https://github.com/walidbosso">
+
+
+## 🌱 Learning
+- 🔭 I'm currently diving into the world of Kotlin Multiplatform, Golang and python to broaden my skill set.
+    
+## 🤝 Let's Collaborate!
+I'm open to collaboration on projects related to  Kotlin, Java, Test Driven Development (TDD), Kotlin Multiplatform, ComposeUI. If you have an exciting project or idea, feel free to reach out!
+## 📫 How to Reach Me
+
+<p align="center">
+
+ [![Gmail](https://img.shields.io/badge/Email--red?style=for-the-badge&logo=gmail)](mailto:mirzaarslan450@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mirza-arslan/)
+ [![Medium](https://img.shields.io/badge/medium-%ADFF2F.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mirzaarslan450)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arsal__55)
+ </p>
+
+<div align="center" margin="100px 0 0 0">
+<hr/>
+<hr/>
+<h2 align="center">⚡My Stats⚡</h2> 
+
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=arslan555&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/arslan555">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arslan555&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
+<!--🦶FOOTER--> 
+<img src="footer.svg" width="100%">
+
 <h1 align="center">Hi 👋, I'm Muhammad Azeem Ghafoor</h1>
 <h3 align="center">I've got some serious coding chops! I'm ready to take on any challenge that comes my way with my mad programming skills.</h3>
 
