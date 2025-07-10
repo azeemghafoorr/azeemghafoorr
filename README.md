@@ -32,10 +32,6 @@ I specialize in full-stack development with Node.js, Next.js, React.js, and bloc
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" width="400">
 </p>
 
-<p align="center">
-  <a href="https://github.com/azeemghafoorr">Check out my GitHub profile!</a>
-</p>
-
 
 ## 🌱 Learning
 - 🔭 I'm currently exploring advanced Web3 development, Next.js features, and blockchain integrations to broaden my skill set.
