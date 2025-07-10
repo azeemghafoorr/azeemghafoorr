@@ -25,7 +25,7 @@ I specialize in full-stack development with Node.js, Next.js, React.js, and bloc
 - 💬 Ask me about **Software Engineering**, **Full-Stack Web Development**, and **Web3/Blockchain Solutions**
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder=1&bgColor=%230D1117&textColor=%23FFFFFF" alt="Jokes Card" width="400" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ I specialize in full-stack development with Node.js, Next.js, React.js, and bloc
 </p>
 
 <p align="center">
-  <a href="https://github.com/azeemghafoor">Check out my GitHub profile!</a>
+  <a href="https://github.com/azeemghafoorr">Check out my GitHub profile!</a>
 </p>
 
 
